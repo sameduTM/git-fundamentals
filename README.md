@@ -10,6 +10,6 @@ This is a git fundamentals solo learning repository.
     git remote add origin https://github.com/<username>/<repo-name>.git
     # create and switch to main branch
     git branch -M main
-    # push first commit
+    # push first commit (push a branch you have never pushed)
     git push -u origin main
 ```
